@@ -32,4 +32,4 @@ This git repository uses [Git LFS (Large File Support)](https://www.atlassian.co
 
 ## Retrieving the NEW changes after the repository is CLONED
 
-1. Once the repository is cloned, you do not need to clone it again to get the new changes. You can use "git pull" command for this action. You can learn more about git using this [link](https://www.tutorialspoint.com/git/index.htm).
+1. Once the repository is cloned, you do not need to clone it again to get the new changes. You can use "git pull" command for this action. But you need to be inside the "GameWithUE5" folder. You can learn more about git using this [link](https://www.tutorialspoint.com/git/index.htm).
